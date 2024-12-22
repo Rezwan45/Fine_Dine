@@ -23,7 +23,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/restaurant-website.git
+   https://github.com/Rezwan45/Fine_Dine.git
    ```
 
 2. Navigate to the project directory:
@@ -40,7 +40,8 @@
 - **JavaScript** (optional, if applicable): For interactivity (not present in this project).
 
 ## Screenshots
-Include screenshots of the website's main pages here for better visualization.
+![Homepage Screenshot]()
+
 
 ---
 
