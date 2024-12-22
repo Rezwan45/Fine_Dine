@@ -37,10 +37,6 @@
 
 - **HTML5**: For structuring content.
 - **CSS3**: For styling and layout.
-- **JavaScript** (optional, if applicable): For interactivity (not present in this project).
-
-## Screenshots
-![Homepage Screenshot]()
 
 
 ---
